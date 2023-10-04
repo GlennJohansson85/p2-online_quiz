@@ -23,6 +23,7 @@ The interface of the quiz follows the same colorscheme as the background image, 
 
 
 
+
 ### Validator Testing
 
 ### Unfixed Bugs
